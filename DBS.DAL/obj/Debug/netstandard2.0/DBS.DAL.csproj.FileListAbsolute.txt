@@ -1,0 +1,4 @@
+C:\Users\Darre\Desktop\AP CA\WindowsFormsApp1\DBS.DAL\bin\Debug\netstandard2.0\DBS.Core.dll
+C:\Users\Darre\Desktop\AP CA\WindowsFormsApp1\DBS.DAL\obj\Debug\netstandard2.0\DBS.DAL.AssemblyInfoInputs.cache
+C:\Users\Darre\Desktop\AP CA\WindowsFormsApp1\DBS.DAL\obj\Debug\netstandard2.0\DBS.DAL.AssemblyInfo.cs
+C:\Users\Darre\Desktop\AP CA\WindowsFormsApp1\DBS.DAL\obj\Debug\netstandard2.0\DBS.DAL.csprojAssemblyReference.cache
